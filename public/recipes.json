@@ -1,0 +1,99 @@
+[
+      {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Chicken with Basil",
+        "recipe_image": "https://i.ibb.co.com/WfKskvt/delicious-chicken-table.jpg",
+        "short_description": "A simple and flavorful grilled chicken dish with a hint of basil.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "200 g basil leaf",
+          "400 g mushroom",
+          "2 tbsp olive oil",
+          "1 clove garlic"
+        ],
+        "preparing_time": 30,
+        "calories": 320
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Pasta Carbonara",
+        "recipe_image": "https://i.ibb.co.com/jbM5QmQ/bowl-spaghetti-with-green-leaf-top.jpg",
+        "short_description": "Classic Italian pasta with a creamy sauce made of eggs, cheese, and pancetta.",
+        "ingredients": [
+          "200 g pasta",
+          "100 g pancetta",
+          "2 eggs",
+          "50 g parmesan cheese",
+          "1 clove garlic",
+          "Salt and pepper to taste"
+        ],
+        "preparing_time": 20,
+        "calories": 400
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir-Fry",
+        "recipe_image": "https://i.ibb.co.com/KjyKvfx/stir-fry-chicken-sweet-peppers-green-beans.jpg",
+        "short_description": "A healthy and quick stir-fry with fresh vegetables and soy sauce.",
+        "ingredients": [
+          "100 g broccoli",
+          "100 g bell peppers",
+          "50 g carrots",
+          "50 ml soy sauce",
+          "1 tbsp sesame oil",
+          "1 clove garlic"
+        ],
+        "preparing_time": 15,
+        "calories": 200
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "recipe_image": "https://i.ibb.co.com/gzBzK9t/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+        "short_description": "Delicious tacos filled with seasoned beef and fresh toppings.",
+        "ingredients": [
+          "300 g ground beef",
+          "8 taco shells",
+          "100 g shredded lettuce",
+          "50 g cheddar cheese",
+          "50 g salsa",
+          "1 tsp taco seasoning"
+        ],
+        "preparing_time": 25,
+        "calories": 450
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Avocado Toast",
+        "recipe_image": "https://i.ibb.co.com/59pyzMQ/avocado-open-toast-with-avocado-slices-lemon-flax-seeds-sesame-seeds-black-bread-slices-top-view.jpg",
+        "short_description": "A nutritious and easy breakfast of mashed avocado on toast.",
+        "ingredients": [
+          "1 ripe avocado",
+          "2 slices of bread",
+          "1 tbsp olive oil",
+          "1 tsp lemon juice",
+          "Salt and pepper to taste"
+        ],
+        "preparing_time": 10,
+        "calories": 250
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Brownies",
+        "recipe_image": "https://i.ibb.co.com/VxDtfVt/chocolate-brownies-white-plate.jpg",
+        "short_description": "Rich and fudgy chocolate brownies perfect for dessert.",
+        "ingredients": [
+          "200 g dark chocolate",
+          "150 g butter",
+          "100 g sugar",
+          "2 eggs",
+          "100 g flour",
+          "1 tsp vanilla extract"
+        ],
+        "preparing_time": 40,
+        "calories": 450
+      }
+    ]
+
+  
