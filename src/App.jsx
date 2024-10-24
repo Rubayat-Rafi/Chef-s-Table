@@ -1,6 +1,8 @@
 import { useState } from "react";
 import Recipes from "./Component/Recipes";
 import Sidebar from "./Component/Sidebar";
+import Header from "./Component/Header";
+import Hero from "./Component/Hero";
 
 function App() {
 
@@ -42,6 +44,8 @@ const calculateTimeAndCalories =(time, calorie) => {
 
   return (
 <div className="container mx-auto px-4">
+      <Header></Header>
+    <Hero></Hero>
     {/* recipe cars section */}
     <section className="flex flex-col md:flex-row gap-6 py-14">
       {/* card section */}
